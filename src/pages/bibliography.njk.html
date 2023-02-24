@@ -1,0 +1,56 @@
+---js
+{
+  layout: "base",
+  templateEngineOverride: "liquid",
+  title: "Bibliography",
+  permalink: "/bibliography/",
+  eleventyNavigation: {
+    key: "Bibliography",
+    order: "8"
+  },
+  pagination: {
+    data: "collections.publications",
+    reverse: false,
+    alias: "publications",
+    size: 100,
+    before: function(paginationData, fullData) {
+      return paginationData.sort((a, b) => a.data.author.localeCompare(b.data.author));
+    }
+  }
+}
+---
+
+<h2>Publications</h2>
+
+<div class="projects">
+				{%- for pub in publications -%}
+
+					{%bibtex%}@{{pub.data.type}}{% raw %}{{% endraw %}{{pub.data.pubkey}},
+						author = "{{pub.data.author}}",
+						title = "{{pub.data.title}}",
+						{%if pub.data.booktitle %}
+						booktitle = "{{pub.data.booktitle}}",
+						{% endif %}
+						{%if pub.data.editor %}
+						editor = "{{pub.data.editor}}",
+						{% endif %}
+						{%if pub.data.booktitle %}
+						pages = "{{pub.data.pages}}",
+						{% endif %}
+						{%if pub.data.journal %}
+						journal = "{{pub.data.journal}}",
+						{% endif %}
+						{%if pub.data.volume %}
+						volume = "{{pub.data.volume}}",
+						{% endif %}
+						{% if pub.data.url %}
+						url = "{{pub.data.url}}",
+						{% endif %}
+						year = "{{pub.data.year}}"
+						{% raw %}}{% endraw %}{%endbibtex%}
+
+
+
+					{% endfor %}
+
+</div>
