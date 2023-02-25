@@ -2,7 +2,7 @@
 key: 'domestic-tech'
 permalink: /projects/domestic-tech/
 title: "Gender and Domestic Technology in Mid-Century Women’s Magazines"
-image: /assets/images/toasters_project.jpg
+image: /litlab-website/assets/images/toasters_project.jpg
 members: [asherman, abutlerwall, cchen, malgeehewitt, mwarner, nnomura, qdombrowski, zleniarska]
 collaborators:
 status: 'archive'

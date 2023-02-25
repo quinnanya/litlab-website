@@ -2,7 +2,7 @@
 key: 'voice'
 permalink: /projects/voice/
 title: "Voice"
-image: /assets/images/voice.jpg
+image: /litlab-website/assets/images/voice.jpg
 members: [nmavrody, lmcgrath, nnomura, asherman]
 collaborators: 
 status: 'archive'

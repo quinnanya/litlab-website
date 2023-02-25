@@ -2,7 +2,7 @@
 key: 'novel-worldbuilding'
 permalink: /projects/novel-worldbuilding/
 title: "Novel Worldbuilding"
-image: '/assets/images/novel-worldbuilding.jpg'
+image: '/litlab-website/assets/images/novel-worldbuilding.jpg'
 members: [nnomura, malgeehewitt]
 status: 'active'
 date_updated: 2023-01-01

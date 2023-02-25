@@ -2,7 +2,7 @@
 key: 'emotions-london'
 permalink: /projects/emotions-london/
 title: "The Emotions of London"
-image: /assets/images/emotions-london.jpg
+image: /litlab-website/assets/images/emotions-london.jpg
 members: [rheuser, zfrank, fmoretti]
 collaborators:
 status: 'archive'

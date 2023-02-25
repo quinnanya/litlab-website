@@ -2,7 +2,7 @@
 key: 'short-stories'
 permalink: /projects/short-stories/
 title: "Short stories"
-image: /assets/images/short_stories.jpg
+image: /litlab-website/assets/images/short_stories.jpg
 members: [malgeehewitt, amukamal, jporter]
 status: 'active'
 date_updated: 2023-01-01

@@ -18,7 +18,7 @@ There's one other major difference between the *New York* canon and the one I 
 **Figure 1**
 
 
-<a href="/assets/images/JoyceAustenDickens.png"><img src="/assets/images/JoyceAustenDickens.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/JoyceAustenDickens.png"><img src="/litlab-website/assets/images/JoyceAustenDickens.png" width="800px" /></a>
 
 Joyce is extremely prestigious, albeit with most of the criticism about him allocated to one book. Austen is substantially less prestigious, but much more popular; modern Goodreads users still love *Pride and Prejudice* (even in comparison with today's novels). Dickens as he appears here has achieved Austen-like canonicity, but only in the top half of his output; he also has an entire Austen-sized corpus with distinctly less-than-Austen results. As an author, he has greater total prestige than Austen, in part because he produced so many novels for scholars to analyze; but on the level of individual books, her works tend to surpass his.
 
@@ -26,7 +26,7 @@ After all of that preface, let's get to the results for the *New York *canon. 
 
 **Figure 2**
 
-<a href="/assets/images/New-York-Magazine-PopPres-1024x598.png"><img src="/assets/images/New-York-Magazine-PopPres-1024x598.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/New-York-Magazine-PopPres-1024x598.png"><img src="/litlab-website/assets/images/New-York-Magazine-PopPres-1024x598.png" width="800px" /></a>
 
 Readers are very familiar with Gillian Flynn's *Gone Girl*, which is beating every other book depicted here by over one million ratings (none of the others even *has* one million ratings). Meanwhile, W.G. Sebald's *Austerlitz* is, by a pretty sizable margin, the most prestigious book, having netted 258 academic articles.[[2]](/pop-pres-ny/#_ftn2) The clear difference between the two speaks to the usefulness of the graph. If you took a negative view of these choices, you might say *Gone Girl* can't make the canon because it's a flash in the pan (no one takes it seriously) or Sebald can't because he's obscure (you can't be canonical if most people have never heard of you). Yet they're clearly both quite successful, along their particular tracks. Cormac McCarthy's *The Road* splits the difference---a book well known enough to, say, become a successful movie, but also by a Famous Important Writer.
 
@@ -34,7 +34,7 @@ Turning to a logarithmic depiction, in Figure 3, gives us a clearer picture of t
 
 **Figure 3**
 
-<a href="/assets/images/New-York-Magazine-PopPres-log-1024x598.png"><img src="/assets/images/New-York-Magazine-PopPres-log-1024x598.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/New-York-Magazine-PopPres-log-1024x598.png"><img src="/litlab-website/assets/images/New-York-Magazine-PopPres-log-1024x598.png" width="800px" /></a>
 
 The gray lines here reflect the median values for both prestige and popularity. It's immediately clear that most of these books have received fairly little academic attention, even when we think of them as pretty prestigious. *Leaving the Atocha Station*, for instance, is highly regarded (it was widely praised and won some awards), yet I have personally met 25% of the people who have published MLA-recognized articles about it (his name is Alexander Manshel; he's a Lit Lab member).[[3]](/pop-pres-ny/#_ftn3) In fact, 35 of the books listed, or a little over a third, have no MLA articles at all. That means (and for me this rings intuitively true) that getting *any* scholarly attention is a very strong positive signal for books published in the last 18 years.
 
@@ -42,7 +42,7 @@ This is in part a function of time, for the reasons mentioned above. As Figure 4
 
 **Figure 4**
 
-<a href="/assets/images/MLA-per-year-1024x598.png"><img src="/assets/images/MLA-per-year-1024x598.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/MLA-per-year-1024x598.png"><img src="/litlab-website/assets/images/MLA-per-year-1024x598.png" width="800px" /></a>
 
 In fact, this effect is even more pronounced than I expected: The big drop-off starts ten years ago. This points to another major (and, I suppose, obvious) difference between academic thinking about literature and that of an institution like *New York *magazine. In an English department, most people work on old literature; you'd virtually never see a department that had a majority of its faculty working on the contemporary. *New York*, by contrast, probably does not employ any medievalists. Over time, this means that academics are more likely to keep talking about the same things over and over, with a rich-get-richer effect. Whoever the Ian McEwan of 1895 was, *New York* is unlikely to mention him much these days. Meanwhile *Hamlet* has accrued 2,169 articles since 2000---399 more than everything in Figure 4 combined.
 
@@ -50,7 +50,7 @@ There's a conspicuous absence in the graphs so far, however, and addressing it h
 
 **Figure 5**
 
-<a href="/assets/images/New-York-Magazine-PopPres-with-series-1024x596.png"><img src="/assets/images/New-York-Magazine-PopPres-with-series-1024x596.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/New-York-Magazine-PopPres-with-series-1024x596.png"><img src="/litlab-website/assets/images/New-York-Magazine-PopPres-with-series-1024x596.png" width="800px" /></a>
 
 In prestige terms, Margaret Atwood's *Oryx and Crake* (part of her MaddAddam trilogy) is the big addition, coming in third overall. But an even more striking story is clearly Harry Potter. I'll admit that when I first heard about the *New York* article, Harry Potter was my first thought---inspired, most likely, by J.K. Rowling's incredible popularity in the data for the pamphlet. The Potter series here has 18.2 million Goodreads ratings; the entire non-Potter corpus has 7.7 million. Some of that is recency; as I note in the pamphlet, the best-sellers of 1918 are mostly forgotten today, so popularity in 2018 might be equally ephemeral, if we're trying to project forward. But the first Potter novel is actually the oldest book on this list (it came out about a decade before Goodreads existed), and it has 5.6 million ratings by itself. The numbers just confirm what we all know---these books were the major popular literary event of the century so far.
 
@@ -64,7 +64,7 @@ Nonetheless, in prestige as in popularity, Rowling is crushing it. Figure 6 is a
 
 **Figure 6**
 
-<a href="/assets/images/New-York-PopPres-with-Collective-Series-1024x604.png"><img src="/assets/images/New-York-PopPres-with-Collective-Series-1024x604.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/New-York-PopPres-with-Collective-Series-1024x604.png"><img src="/litlab-website/assets/images/New-York-PopPres-with-Collective-Series-1024x604.png" width="800px" /></a>
 
 If you're like me, the fun part of all this is speculating about how this canon will age. What will the literary scholars of 2118 make of this period, or this list? I have my non-quantitative opinions, of course, often about things that didn't make the *New York* list.[[6]](/pop-pres-ny/#_ftn6) I also don't think this way of measuring canonicity can offer much of a negative signal, especially given the time constraints. Helen Oyeyemi and Valeria Luiselli seem like strong candidates for the canon to me, but their work is too recent to be sure (that's not just a problem with these graphs, of course---recent work is always more difficult to evaluate for the *longue durée*). Moreover, many metrics are just not captured here, or not capturable. I find myself thinking about Marlon James's *A Brief History of Seven Killings* pretty often, and it's not quite in the northeastern, most canonical quadrant yet; I understood the most recent U.S. Open entirely differently, in real time, because of Claudia Rankine's *Citizen*---how do you measure an effect like that?[[7]](/pop-pres-ny/#_ftn7)
 

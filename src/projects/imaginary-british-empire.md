@@ -2,7 +2,7 @@
 key: 'imaginary-british-empire'
 permalink: /projects/imaginary-british-empire/
 title: "Imaginary British Empire"
-image: /assets/images/imaginary-british-empire.jpg
+image: /litlab-website/assets/images/imaginary-british-empire.jpg
 members: [asherman]
 collaborators:
 status: 'active'

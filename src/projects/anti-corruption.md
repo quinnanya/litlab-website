@@ -2,7 +2,7 @@
 key: 'anti-corruption'
 permalink: /projects/anti-corruption/
 title: "Anti-Corruption"
-image: /assets/images/anti-corruption.jpg
+image: /litlab-website/assets/images/anti-corruption.jpg
 members: [jporter, ebrush, nnomura, asherman, malgeehewitt]
 collaborators: [lgalindoromero, mrozopaz]
 status: 'archive'

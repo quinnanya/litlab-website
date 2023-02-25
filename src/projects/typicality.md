@@ -2,7 +2,7 @@
 key: 'typicality'
 permalink: /projects/typicality/
 title: "Typicality"
-image: /assets/images/typicality.jpg
+image: /litlab-website/assets/images/typicality.jpg
 members: [malgeehewitt, efredner]
 collaborators: 
 status: 'archive'

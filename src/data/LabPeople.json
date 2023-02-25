@@ -17,7 +17,7 @@
 		"email": "malgeehe@stanford.edu",
 		"website": "http://markalgeehewitt.org/",
 		"bio": "Mark Algee-Hewitt’s research focuses on the eighteenth and early nineteenth centuries in England and Germany and seeks to combine literary criticism with digital and quantitative analyses of literary texts. In particular he is interested in the history of aesthetic theory and the development and transmission of aesthetic and philosophic concepts during the Enlightenment and Romantic periods. He is also interested in the relationship between aesthetic theory and the poetry of the long eighteenth century.",
-		"photo":"/assets/images/people/malgeehewitt.jpg"
+		"photo":"/litlab-website/assets/images/people/malgeehewitt.jpg"
 	},
 	{
 		"key":"sallison",
@@ -272,7 +272,7 @@
 		"labtitle":"Core Research Team",
 		"email": "cilindem@stanford.edu",
 		"bio": "Charlotte Lindemann comes from New York. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in pellentesque turpis, vitae tempor justo. Quisque ornare volutpat turpis, eget pellentesque purus scelerisque ut. Fusce dapibus, lectus sed posuere pulvinar, ipsum tellus feugiat nisl, at mollis mauris lorem vel velit.",
-		"photo":"/assets/images/people/clindemann.jpg"
+		"photo":"/litlab-website/assets/images/people/clindemann.jpg"
 	},
 	{
 		"key":"tllewellyn",
@@ -313,7 +313,7 @@
 		"labtitle":"Core Research Team",
 		"email": "jmmonaco@stanford.edu",
 		"bio": "Jessica Monaco is a PhD candidate in the Stanford University Department of English. She works primarily on character and the Gothic in British literature from the late eighteenth to late nineteenth century and cross-temporally by drawing from current medieval studies. In the lab, she is coordinating a project using supervised models to explore similarities between the Gothic and adjacent genres.",
-		"photo":"/assets/images/people/jmonaco.jpg"
+		"photo":"/litlab-website/assets/images/people/jmonaco.jpg"
 	},
 	{
 		"key":"fmoretti",
@@ -342,7 +342,7 @@
 		"labtitle":"Core Research Team",
 		"email":"nnomura@stanford.edu",
 		"bio": "Nichole Nomura is a PhD candidate in the Stanford University Department of English and a graduate of Stanford’s Graduate School of Education (M.A). She studies how science fiction and young adult literature teach and are taught, using methods from the digital humanities, literary criticism, and education.",
-		"photo":"/assets/images/people/nnomura.jpg"
+		"photo":"/litlab-website/assets/images/people/nnomura.jpg"
 	},
 	{
 	"key":"uoh",
@@ -402,7 +402,7 @@
 		"labtitle":"Core Research Team",
 		"email":"ajsherm@stanford.edu",
 		"bio": "Alex Sherman is a Ph.D. candidate in English at Stanford University. He studies literature and science, maritime colonialism, and Gothic fiction, focusing on the British empire in the eighteenth century. His work with the Literary Lab has appeared in The Journal of Cultural Analytics and Post45. He is also a graduate coordinator at the Center for the Study of the Novel.",
-		"photo":"/assets/images/people/asherman.jpg"
+		"photo":"/litlab-website/assets/images/people/asherman.jpg"
 	},
 	{
 		"key":"esibilio",
@@ -460,7 +460,7 @@
 		"labtitle":"Core Research Team",
 		"email":"tcarmen@stanford.edu",
 		"bio": "Carmen Thong is a PhD candidate in English and completing a Certificate in Public Policy at Stanford University. She works in the fields of Postcolonial/World Literature and Digital Humanities, and studies how texts from the Global South are discovered within the global literary supply chain. She is also a Knight Hennessy scholar and a Jacobsson Family Stanford Interdisciplinary Graduate Fellow.",
-		"photo":"/assets/images/people/cthong.jpg"
+		"photo":"/litlab-website/assets/images/people/cthong.jpg"
 	},
 	{
 		"key":"hwalser",
@@ -475,7 +475,7 @@
 		"labtitle": "Associate Director",
 		"email": "mattgw@stanford.edu",
 		"bio": "Matt Warner works on the intersection of queer theory and computational methods. His research focuses on the 20th century history of anglophone queer book publication and circulation, with a particular focus on the history of bibliographies, book recommendation and their connection to queer representation in fiction.",
-		"photo":"/assets/images/people/mwarner.jpg"
+		"photo":"/litlab-website/assets/images/people/mwarner.jpg"
 	},
 	{
 		"key":"mwitmore",

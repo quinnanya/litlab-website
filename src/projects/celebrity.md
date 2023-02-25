@@ -2,7 +2,7 @@
 key: 'celebrity'
 permalink: /projects/celebrity/
 title: "Celebrity"
-image: /assets/images/celebrity.jpg
+image: /litlab-website/assets/images/celebrity.jpg
 members: [malgeehewitt, efredner, clindemann, lmcgrath, jporter]
 collaborators:
 status: 'archive'
