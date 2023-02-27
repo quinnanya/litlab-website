@@ -1,6 +1,6 @@
 ---
 key: 'social-distancing'
-permalink: /litlab-website/projects/social-distancing/
+permalink: /projects/social-distancing/
 title: "Social Distancing"
 image: /litlab-website/assets/images/projects/social-distancing.jpg
 members: [malgeehewitt, clindemannn, nmavrody, nnomura, jporter, mwarner]

@@ -1,6 +1,6 @@
 ---
 key: 'bankspeak'
-permalink: /litlab-website/projects/bankspeak/
+permalink: /projects/bankspeak/
 title: "Bankspeak: The Language of World Bank Reports, 1946-2012"
 image: /litlab-website/assets/images/projects/bankspeak.jpg
 members: [fmoretti, dpestre]

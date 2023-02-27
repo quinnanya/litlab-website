@@ -1,6 +1,6 @@
 ---
 key: 'norton-anthologies'
-permalink: /litlab-website/projects/norton-anthologies/
+permalink: /projects/norton-anthologies/
 title: "Reading Norton Anthologies"
 image: /litlab-website/assets/images/projects/norton-anthologies.jpg
 members: [efredner, dmcclure, jporter]

@@ -1,6 +1,6 @@
 ---
 key: 'identity'
-permalink: /litlab-website/projects/identity/
+permalink: /projects/identity/
 title: "Identity"
 image: /litlab-website/assets/images/projects/identity.jpg
 members: [malgeehewitt, jporter, hwalser]

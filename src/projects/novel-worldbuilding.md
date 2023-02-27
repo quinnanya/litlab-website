@@ -1,6 +1,6 @@
 ---
 key: 'novel-worldbuilding'
-permalink: /litlab-website/projects/novel-worldbuilding/
+permalink: /projects/novel-worldbuilding/
 title: "Novel Worldbuilding"
 image: '/litlab-website/assets/images/projects/novel-worldbuilding.jpg'
 members: [nnomura, malgeehewitt]

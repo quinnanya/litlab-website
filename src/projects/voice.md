@@ -1,6 +1,6 @@
 ---
 key: 'voice'
-permalink: /litlab-website/projects/voice/
+permalink: /projects/voice/
 title: "Voice"
 image: /litlab-website/assets/images/projects/voice.jpg
 members: [nmavrody, lmcgrath, nnomura, asherman]

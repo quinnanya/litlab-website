@@ -1,6 +1,6 @@
 ---
 key: 'therapytexts'
-permalink: /litlab-website/projects/therapytexts/
+permalink: /projects/therapytexts/
 title: "TherapyTexts"
 image: /litlab-website/assets/images/projects/therapytexts.jpg
 members: [amukamal, malgeehewitt]

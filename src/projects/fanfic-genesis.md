@@ -1,6 +1,6 @@
 ---
 key: 'fanfic-genesis'
-permalink: /litlab-website/projects/fanfic-genesis/
+permalink: /projects/fanfic-genesis/
 title: "Fanfiction: Generic Genesis and Evolution"
 image: /litlab-website/assets/images/projects/fanfic-genesis.jpg
 members: [malgeehewitt, sdouris]

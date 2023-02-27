@@ -1,6 +1,6 @@
 ---
 key: 'translation'
-permalink: /litlab-website/projects/translation/
+permalink: /projects/translation/
 title: "Translation"
 image: /litlab-website/assets/images/projects/translation_project.jpg
 members: [qdombrowski, jporter, yilchuk]

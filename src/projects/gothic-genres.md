@@ -1,6 +1,6 @@
 ---
 key: 'gothic-genres'
-permalink: /litlab-website/projects/gothic-genres/
+permalink: /projects/gothic-genres/
 title: "Castle at the Crossroads: The Gothic and Other Genres"
 image: /litlab-website/assets/images/projects/gothic_genres.jpg
 members: [radams, malgeehewitt, sguhr, chaberfield, jmonaco, asherman]

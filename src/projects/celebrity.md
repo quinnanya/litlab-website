@@ -1,6 +1,6 @@
 ---
 key: 'celebrity'
-permalink: /litlab-website/projects/celebrity/
+permalink: /projects/celebrity/
 title: "Celebrity"
 image: /litlab-website/assets/images/projects/celebrity.jpg
 members: [malgeehewitt, efredner, clindemann, lmcgrath, jporter]

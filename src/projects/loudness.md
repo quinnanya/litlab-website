@@ -1,6 +1,6 @@
 ---
 key: 'loudness'
-permalink: /litlab-website/projects/loudness/
+permalink: /projects/loudness/
 title: "Loudness in the Novel"
 image: /litlab-website/assets/images/projects/loudness.jpg
 members: [hkatsma]

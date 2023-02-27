@@ -1,6 +1,6 @@
 ---
 key: 'network-theory-plot-analysis'
-permalink: /litlab-website/projects/network-theory-plot-analysis/
+permalink: /projects/network-theory-plot-analysis/
 title: "Network Theory, Plot Analysis"
 image: /litlab-website/assets/images/projects/network-theory-plot-analysis.jpg
 members: [fmoretti]

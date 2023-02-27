@@ -1,6 +1,6 @@
 ---
 key: 'operationalizing'
-permalink: /litlab-website/projects/operationalizing/
+permalink: /projects/operationalizing/
 title: "'Operationalizing': or, the function of measurement in modern literary theory"
 image: /litlab-website/assets/images/projects/operationalizing.jpg
 members: [fmoretti]

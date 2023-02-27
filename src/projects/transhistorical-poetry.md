@@ -1,6 +1,6 @@
 ---
 key: 'transhistorical-poetry'
-permalink: /litlab-website/projects/transhistorical-poetry/
+permalink: /projects/transhistorical-poetry/
 title: "Trans-Historical Poetry Project"
 image: /litlab-website/assets/images/projects/transhistorical-poetry.jpg
 members: [malgeehewitt, rheuser, jporter]

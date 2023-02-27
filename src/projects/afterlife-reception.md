@@ -1,6 +1,6 @@
 ---
 key: 'afterlife-receptionf'
-permalink: /litlab-website/projects/afterlife-reception/
+permalink: /projects/afterlife-reception/
 title: "The Afterlife of Reception"
 image: /litlab-website/assets/images/projects/afterlife-reception.jpg
 members: [efinn]

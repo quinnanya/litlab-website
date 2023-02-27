@@ -1,6 +1,6 @@
 ---
 key: 'star-wars'
-permalink: /litlab-website/projects/star-wars/
+permalink: /projects/star-wars/
 title: "Star Wars"
 image: /litlab-website/assets/images/projects/starwars_project.jpg
 members: [malgeehewitt, qdombrowski, nnomura, mwarner]

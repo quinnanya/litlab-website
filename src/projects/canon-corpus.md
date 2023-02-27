@@ -1,6 +1,6 @@
 ---
 key: 'canon-corpus'
-permalink: /litlab-website/projects/canon-corpus/
+permalink: /projects/canon-corpus/
 title: "Between Canon and Corpus: Six Perspectives on 20th Century Novels"
 image: /litlab-website/assets/images/projects/canon-corpus.jpg
 members: [malgeehewitt, mmcgurl]

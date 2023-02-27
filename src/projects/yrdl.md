@@ -1,6 +1,6 @@
 ---
 key: 'yrdl'
-permalink: /litlab-website/projects/yrdl/
+permalink: /projects/yrdl/
 title: "Young Readers Database of Literature (YRDL)"
 image: /litlab-website/assets/images/projects/yrdl_project.jpg
 members: [nnomura, qdombrowski]

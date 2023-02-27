@@ -1,6 +1,6 @@
 ---
 key: 'multilingual-fanfic'
-permalink: /litlab-website/projects/multilingual-fanfic/
+permalink: /projects/multilingual-fanfic/
 title: "Multilingual Fanfic"
 image: /litlab-website/assets/images/projects/multilingual_fanfic_project.jpg
 members: [qdombrowski, sdouris]

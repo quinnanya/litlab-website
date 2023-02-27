@@ -1,6 +1,6 @@
 ---
 key: 'data-sitters-club'
-permalink: /litlab-website/projects/data-sitters-club/
+permalink: /projects/data-sitters-club/
 title: "Data-Sitters Club"
 image: /litlab-website/assets/images/projects/dsc_project.jpg
 members: [malgeehewitt, qdombrowski]

@@ -1,6 +1,6 @@
 ---
 key: 'broken-time'
-permalink: /litlab-website/projects/broken-time/
+permalink: /projects/broken-time/
 title: "Broken Time, Continued Evolution: Anachronies in Contemporary Films"
 image: /litlab-website/assets/images/projects/broken-time.jpg
 members: [osobchuk]

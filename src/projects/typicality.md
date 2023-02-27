@@ -1,6 +1,6 @@
 ---
 key: 'typicality'
-permalink: /litlab-website/projects/typicality/
+permalink: /projects/typicality/
 title: "Typicality"
 image: /litlab-website/assets/images/projects/typicality.jpg
 members: [malgeehewitt, efredner]

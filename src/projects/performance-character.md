@@ -1,6 +1,6 @@
 ---
 key: 'performance-character'
-permalink: /litlab-website/projects/performance-character/
+permalink: /projects/performance-character/
 title: "The Performance of Character"
 image: /litlab-website/assets/images/projects/performance-character.jpg
 members: [malgeehewitt, gmuzny, djurafsky]

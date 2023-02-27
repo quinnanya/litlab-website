@@ -1,6 +1,6 @@
 ---
 key: 'microgenres'
-permalink: /litlab-website/projects/microgenres/
+permalink: /projects/microgenres/
 title: "Microgenres"
 image: /litlab-website/assets/images/projects/microgenres.jpg
 members: [malgeehe, mbronstein, adroge, efredner, rheuser, amanshel, nnomura, jporter, hwalser]
