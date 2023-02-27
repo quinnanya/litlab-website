@@ -1,8 +1,8 @@
 ---
 key: 'network-theory-plot-analysis'
-permalink: /projects/network-theory-plot-analysis/
+permalink: /litlab-website/projects/network-theory-plot-analysis/
 title: "Network Theory, Plot Analysis"
-image: /litlab-website/assets/images/network-theory-plot-analysis.jpg
+image: /litlab-website/assets/images/projects/network-theory-plot-analysis.jpg
 members: [fmoretti]
 status: 'archive'
 shortdesc: "Using character networks for a quantitative analysis of plot"

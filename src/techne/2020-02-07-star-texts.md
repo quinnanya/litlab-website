@@ -21,11 +21,11 @@ Figure 1 offers a rough image of the corpus of star texts I compiled from the *
 
 **Figure 1**
 
-<a href="/litlab-website/assets/images/all-star-texts.png"><img src="/litlab-website/assets/images/all-star-texts.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/techne/all-star-texts.png"><img src="/litlab-website/assets/images/techne/all-star-texts.png" width="800px" /></a>
 
 **Figure 2**
 
-<a href="/litlab-website/assets/images/top10-star-texts.png"><img src="/litlab-website/assets/images/top10-star-texts.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/techne/top10-star-texts.png"><img src="/litlab-website/assets/images/techne/top10-star-texts.png" width="800px" /></a>
 
 Even though there's far more material in the contemporary side of the corpus, our top ten stars are spread fairly evenly across a century of Hollywood history. We have four from the studio-system dominated era of Classical Hollywood: Katharine Hepburn, Bette Davis, Audrey Hepburn, and Elizabeth Taylor. Three from the post-studio system, the New Hollywood era: Jane Fonda, Jack Nicholson, and Meryl Streep. And three from the contemporary: Cate Blanchett, Julia Roberts, and Nicole Kidman. With living actors, periodization is tricky. For example, do we still think of Meryl Streep as "New Hollywood" when the majority of her filmography is more recent? To make things clearer (if a bit cruder) I split the corpus into two periods: "classical Hollywood" and a "post-classical" era.[[3]](/star-texts/#_ftn3)
 
@@ -33,13 +33,13 @@ If Figure 1 helps us compare the size and extent of the star texts in our corpus
 
 **Figure 3**
 
-<a href="/litlab-website/assets/images/top10-star-texts-each.png"><img src="/litlab-website/assets/images/top10-star-texts-each.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/techne/top10-star-texts-each.png"><img src="/litlab-website/assets/images/techne/top10-star-texts-each.png" width="800px" /></a>
 
 Each graph in Figure 3 shows the number of advertisements and reviews per year that feature a given star in the classical Hollywood period. Each of the top ten biggest star texts of this era begin with a series of advertisements that significantly precede the star's first mention in a review. For example, at the beginning of her career, Bette Davis exclusively appears in advertisements.[[5]](/star-texts/#_ftn5) In 1934 she appears in an ad for a "hair conditioning oil treatment;" in 1936 she's selling silk stockings; in 1939, it's costume jewelry. These ads all have an aspirational quality. These are relatively mundane objects sold under the auspices of Hollywood glamour. But the sales pitch cuts both ways. Each image is also explicitly tagged with the studio brand. For example, directly under the slogan "This glamour can be yours!" in the costume jewelry ad, there's another caption. This one reads: "Bette Davis as she appears in a scene from the epochal drama, *Juartez*, produced in regal splendor by Warner Bros."
 
 **Figure 4 **[[6]](/star-texts/#_ftn6)
 
-<a href="/litlab-website/assets/images/star-texts-ad.png"><img src="/litlab-website/assets/images/star-texts-ad.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/techne/star-texts-ad.png"><img src="/litlab-website/assets/images/techne/star-texts-ad.png" width="800px" /></a>
 
 The image of Bette Davis in costume doubles as Warner Bros. promotional material. She sits gracefully at the intersection of the Hollywood studio and the consumer brand, presiding over the complex network of advertisement messaging. From this perspective, her "regal splendor" seems especially stagy. The star image is a prop, produced at this intersection to grease the wheels of brand integration.
 
@@ -47,7 +47,7 @@ After this image has been sufficiently sedimented in almost a decade of advertis
 
 **Figure 5**
 
-<a href="/litlab-website/assets/images/star-texts-10-post-classical.png"><img src="/litlab-website/assets/images/star-texts-10-post-classical.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/techne/star-texts-10-post-classical.png"><img src="/litlab-website/assets/images/techne/star-texts-10-post-classical.png" width="800px" /></a>
 
 In the post-classical period, we see the opposite. In Figure 5, each star text graph starts with a stretch of reviews. Ads appear significantly later. Here, "stars" have to start as indie "actors," before they go on to make real money in blockbusters and ad campaigns. For example, the Kate Winslet star text begins with a stretch of reviews for Indie movies and prestige period pieces, like Kenneth Branagh's 1996 adaptation of *Hamlet *and Jane Campion's 1999 *Holy Smoke!*
 
@@ -57,7 +57,7 @@ I think this suggests that star production in the studio system is replaced by s
 
 **Figure 6 **[[8]](/star-texts/#_ftn8)
 
-<a href="/litlab-website/assets/images/star-texts-kate.jpg"><img src="/litlab-website/assets/images/star-texts-kate.jpg" width="800px" /></a>
+<a href="/litlab-website/assets/images/techne/star-texts-kate.jpg"><img src="/litlab-website/assets/images/techne/star-texts-kate.jpg" width="800px" /></a>
 
 In 2003, *Harper's* ran a piece titled, "Kate's Turn," as in *Kate's turn in the limelight, *or *Kate's turn at big time Hollywood fame*. Ironically, this data point appears in the Kate Winslet star text just as her early-career uptick in reviews starts to decline. It's a turning point in more than one sense: *Kate's turn *from a review-based star text to an ad-based one; from an indie actor to the face of an anti-aging cosmetics line.
 

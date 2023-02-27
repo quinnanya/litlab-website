@@ -1,8 +1,8 @@
 ---
 key: 'typicality'
-permalink: /projects/typicality/
+permalink: /litlab-website/projects/typicality/
 title: "Typicality"
-image: /litlab-website/assets/images/typicality.jpg
+image: /litlab-website/assets/images/projects/typicality.jpg
 members: [malgeehewitt, efredner]
 collaborators: 
 status: 'archive'

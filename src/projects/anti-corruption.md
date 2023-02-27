@@ -1,8 +1,8 @@
 ---
 key: 'anti-corruption'
-permalink: /projects/anti-corruption/
+permalink: /litlab-website/projects/anti-corruption/
 title: "Anti-Corruption"
-image: /litlab-website/assets/images/anti-corruption.jpg
+image: /litlab-website/assets/images/projects/anti-corruption.jpg
 members: [jporter, ebrush, nnomura, asherman, malgeehewitt]
 collaborators: [lgalindoromero, mrozopaz]
 status: 'archive'

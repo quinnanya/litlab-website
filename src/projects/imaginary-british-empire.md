@@ -1,8 +1,8 @@
 ---
 key: 'imaginary-british-empire'
-permalink: /projects/imaginary-british-empire/
+permalink: /litlab-website/projects/imaginary-british-empire/
 title: "Imaginary British Empire"
-image: /litlab-website/assets/images/imaginary-british-empire.jpg
+image: /litlab-website/assets/images/projects/imaginary-british-empire.jpg
 members: [asherman]
 collaborators:
 status: 'active'

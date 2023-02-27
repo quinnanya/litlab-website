@@ -9,7 +9,7 @@ url: 'https://litlab.stanford.edu/LiteraryLabPamphlet1.pdf'
 year: 2011
 project: 'quantitative-formalism'
 pamphlet:
-  image: "/litlab-website/assets/images/p01.png"
+  image: "/litlab-website/assets/images/pamphlets/p01.png"
   pdf: "https://litlab.stanford.edu/LiteraryLabPamphlet1.pdf"
   pubdate: 2011-01-15
   blurb: |

@@ -1,8 +1,8 @@
 ---
 key: 'microgenres'
-permalink: /projects/microgenres/
+permalink: /litlab-website/projects/microgenres/
 title: "Microgenres"
-image: /litlab-website/assets/images/microgenres.jpg
+image: /litlab-website/assets/images/projects/microgenres.jpg
 members: [malgeehe, mbronstein, adroge, efredner, rheuser, amanshel, nnomura, jporter, hwalser]
 collaborators:
 status: 'archive'
@@ -23,4 +23,4 @@ The project seeks to answer three related questions. First, are there difference
 
 To answer the first question, we created a classification model using discriminant function analysis. Our choice of a method spoke to both our hypothesis that the classification of disciplinary style would be found in a linear combination of grammatical features, as well as our subsequent use of the posterior probabilities calculated by the model (rather than hard classifications) as proxies for the disciplinary mixtures in each of the passages that we classified. The results of our initial classification (cross-validated through a withheld test sample) reveal that our model was able to classify the texts from each discipline at a far greater percentage than chance; even the least-successful discipline, economics, was accurate more than 50% of the time (chance guesses would have been right 9% of the time). The misclassifications in each genre speak both the complexities of the model, but also to the same microgeneric phenomena that occur in novels. In a book on natural science, for example, the straightforward discourse of history includes aspects of natural science in its attention to the details of historical events.
 
-![Microgenres success rate for each genre](/litlab-website/assets/images/microgenres-successrate.jpg)
+![Microgenres success rate for each genre](/litlab-website/assets/images/projects/microgenres-successrate.jpg)

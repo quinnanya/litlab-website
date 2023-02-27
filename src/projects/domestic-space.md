@@ -1,8 +1,8 @@
 ---
 key: 'domestic-space'
-permalink: /projects/domestic-space/
+permalink: /litlab-website/projects/domestic-space/
 title: "Domestic Spaces in Fiction"
-image: '/litlab-website/assets/images/domestic_spaces.jpg'
+image: '/litlab-website/assets/images/projects/domestic_spaces.jpg'
 members: [malgeehe, mwarner, asherman, jmonaco, alamar]
 collaborators: [sguhr]
 date_updated: 2023-01-12

@@ -1,8 +1,8 @@
 ---
 key: 'translation'
-permalink: /projects/translation/
+permalink: /litlab-website/projects/translation/
 title: "Translation"
-image: /litlab-website/assets/images/translation_project.jpg
+image: /litlab-website/assets/images/projects/translation_project.jpg
 members: [qdombrowski, jporter, yilchuk]
 collaborators: [alenzo, elee, shadi]
 status: 'archive'

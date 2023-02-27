@@ -1,8 +1,8 @@
 ---
 key: 'emotions-london'
-permalink: /projects/emotions-london/
+permalink: /litlab-website/projects/emotions-london/
 title: "The Emotions of London"
-image: /litlab-website/assets/images/emotions-london.jpg
+image: /litlab-website/assets/images/projects/emotions-london.jpg
 members: [rheuser, zfrank, fmoretti]
 collaborators:
 status: 'archive'

@@ -1,9 +1,10 @@
 ---
 key: 'theory'
-permalink: /projects/theory/
+permalink: '/litlab-website/projects/theory/'
 title: "Theory"
-image: /litlab-website/assets/images/theory.jpg
-members: [malgeehe, nnomura]
+image: '/litlab-website/assets/images/projects/theory.jpg'
+members: ['malgeehewitt']
+collaborators:
 status: 'active'
 date_updated: 2023-02-01
 start_date: 2023-01-01

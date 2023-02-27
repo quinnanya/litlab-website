@@ -1,13 +1,13 @@
 ---
 key: 'yrdl'
-permalink: /projects/yrdl/
+permalink: /litlab-website/projects/yrdl/
 title: "Young Readers Database of Literature (YRDL)"
-image: /litlab-website/assets/images/yrdl_project.jpg
+image: /litlab-website/assets/images/projects/yrdl_project.jpg
 members: [nnomura, qdombrowski]
 collaborators: [jwolf, kge]
 status: 'active'
 website: 'https://yrdl.org/'
-date_updated: 2023-02-01
+date_updated: 2022-02-01
 start_date: 2020-06-15
 end_date:
 shortdesc: |

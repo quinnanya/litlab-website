@@ -1,8 +1,8 @@
 ---
 key: 'star-texts'
-permalink: /projects/star-texts/
+permalink: /litlab-website/projects/star-texts/
 title: "Star Texts"
-image: /litlab-website/assets/images/star-texts.jpg
+image: /litlab-website/assets/images/projects/star-texts.jpg
 members: [clindemann, malgeehewitt, hwalser]
 collaborators: 
 status: 'archive'

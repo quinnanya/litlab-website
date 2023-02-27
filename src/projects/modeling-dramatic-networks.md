@@ -1,8 +1,8 @@
 ---
 key: 'modeling-dramatic-networks'
-permalink: /projects/modeling-dramatic-networks/
+permalink: /litlab-website/projects/modeling-dramatic-networks/
 title: "Modeling Dramatic Networks"
-image: /litlab-website/assets/images/modeling-dramatic-networks.jpg
+image: /litlab-website/assets/images/projects/modeling-dramatic-networks.jpg
 members: [malgeehewitt, zfrank, rheuser, fmoretti]
 collaborators:
 status: 'archive'

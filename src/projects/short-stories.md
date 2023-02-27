@@ -1,8 +1,8 @@
 ---
 key: 'short-stories'
-permalink: /projects/short-stories/
+permalink: /litlab-website/projects/short-stories/
 title: "Short stories"
-image: /litlab-website/assets/images/short_stories.jpg
+image: /litlab-website/assets/images/projects/short_stories.jpg
 members: [malgeehewitt, amukamal, jporter]
 status: 'active'
 date_updated: 2023-01-01

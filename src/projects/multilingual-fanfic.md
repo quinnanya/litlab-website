@@ -1,8 +1,8 @@
 ---
 key: 'multilingual-fanfic'
-permalink: /projects/multilingual-fanfic/
+permalink: /litlab-website/projects/multilingual-fanfic/
 title: "Multilingual Fanfic"
-image: /litlab-website/assets/images/multilingual_fanfic_project.jpg
+image: /litlab-website/assets/images/projects/multilingual_fanfic_project.jpg
 members: [qdombrowski, sdouris]
 collaborators: [mgorshkova, alenzo]
 status: 'active'

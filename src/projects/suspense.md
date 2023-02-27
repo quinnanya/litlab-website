@@ -1,8 +1,8 @@
 ---
 key: 'suspense'
-permalink: /projects/suspense/
+permalink: /litlab-website/projects/suspense/
 title: "Suspense"
-image: /litlab-website/assets/images/suspense.jpg
+image: /litlab-website/assets/images/projects/suspense.jpg
 members: [malgeehewitt, adroge, efredner, jporter, teccles, mfrank ashephard, osobchuk, hwalser]
 collaborators: [cdavis, leidem]
 status: 'archive'

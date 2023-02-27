@@ -42,7 +42,7 @@ layout: base
 		
 	{%- for person in LabPeople -%}
 	    {%- if member == person.key -%}
-	{{- person.name -}}{{ ", " if not author_loop.last }}{% endif %}{% endfor %}{% endfor %};
+	{{- person.name -}}{{ ", " if not author_loop.last }}{% endif %}{% endfor %}{% endfor %}
 	
         {% endif %}
       </p>
@@ -53,7 +53,7 @@ layout: base
 		
 		{%- for person in LabPeople -%}
 		    {%- if collaborator == person.key -%}
-		{{- person.name -}}{{ ", " if not author_loop.last }}{% endif %}{% endfor %}{% endfor %};
+		{{- person.name -}}{{ ", " if not author_loop.last }}{% endif %}{% endfor %}{% endfor %}
 		
         {% endif %}
       </p>

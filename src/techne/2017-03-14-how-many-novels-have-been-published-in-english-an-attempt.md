@@ -14,7 +14,7 @@ So, an attempt: According to Bowker's Books in Print, there were 2,714,409 new b
 
 Bowkers's 2015 ratio (8.2% of publishing categorized as "fiction") does not seem to have been too far outside of the norm for the last six years:
 
-<a href="/litlab-website/assets/images/books-per-year-by-type.png"><img src="/litlab-website/assets/images/books-per-year-by-type.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/techne/books-per-year-by-type.png"><img src="/litlab-website/assets/images/techne/books-per-year-by-type.png" width="800px" /></a>
 
 As this chart shows, the data Bowkers collects on book sales has varied dramatically over the last sixteen years, starting with that sharp uptick in 2009-10 before declining again. It's hard to know whether that spike accurately reflects a year of unprecedented book publication, or if instead it measures a change in Bowkers's counting methodology. After all, 2009-10 seems like it would have been a bad time economically to quintuple your book printing. But it also came near the beginning of on-demand printing---those physical reprints of out-of-copyright texts by no-name publishers, sometimes literally just printing off scanned page images from Archive.org and gluing them together.[[4]](#ftn4) This could have greatly inflated the number of "new" books being printed, but it's hard to tell what percentage of the texts from those years and after fall into that category.
 
@@ -49,7 +49,7 @@ Of those 500 items, 211 (42%) were duplicate entries referencing the same work (
 
 The genre breakdown of that group in this sample is as follows:
 
-<a href="/litlab-website/assets/images/bisac-fiction-in-sample-by-first-sub-cat.png"><img src="/litlab-website/assets/images/bisac-fiction-in-sample-by-first-sub-cat.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/techne/bisac-fiction-in-sample-by-first-sub-cat.png"><img src="/litlab-website/assets/images/techne/bisac-fiction-in-sample-by-first-sub-cat.png" width="800px" /></a>
 
 A few items to note about this chart. BISAC Fiction includes a wide range of categories not represented in this sample.[[9]](#ftn9) This includes non-novel fiction like short stories, anthologies, classics (as in Greek tragedy, not Penguin Classics), etc. So if we assume that the ratio of BISAC Fiction to Bowkers Fiction holds over the set, there would still be some percentage of non-novel Fictions, though they do seem to be rare. The subcategory also includes many forms of genre fiction, which, taken together, outweigh so-called General fiction, frequently the label used for literary fiction. Notably, the BISAC Code Fiction / Literary did not appear once in the sample, though some literary fictions did (e.g. *Blood Meridian *was categorized as Western, *2666* as General, etc.)
 
@@ -57,7 +57,7 @@ Based on this sample, roughly 25% of everything Bowkers categorized as Fiction c
 
 Among novelists who have had large numbers of unique books printed, James seemed to me like he ought to rank quite highly considering his prolific output. I was curious who, if anyone, had more books to their name, so I looked up some of the highly ranked names from the Literary Lab's Popularity/Prestige project:[[10]](#ftn10)
 
-<a href="/litlab-website/assets/images/books-attributed-to-author.png"><img src="/litlab-website/assets/images/books-attributed-to-author.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/techne/books-attributed-to-author.png"><img src="/litlab-website/assets/images/techne/books-attributed-to-author.png" width="800px" /></a>
 
 Predictably, Shakespeare appears at the top of the list. But quite a few of these placements surprised me: Twain has been printed far more than other 19th century novelists like Austen, Eliot, and Melville, who also wrote a fairly large number of books. Faulkner and Hemingway appear surprisingly far down the list, being published more like J.K. Rowling than Fitzgerald, Woolf, and Cather.
 

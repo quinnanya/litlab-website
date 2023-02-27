@@ -1,8 +1,8 @@
 ---
 key: 'data-sitters-club'
-permalink: /projects/data-sitters-club/
+permalink: /litlab-website/projects/data-sitters-club/
 title: "Data-Sitters Club"
-image: /litlab-website/assets/images/dsc_project.jpg
+image: /litlab-website/assets/images/projects/dsc_project.jpg
 members: [malgeehewitt, qdombrowski]
 collaborators: [lbessette, kbowers, mcecire, alang, rrisam]
 status: 'active'

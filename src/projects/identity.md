@@ -1,8 +1,8 @@
 ---
 key: 'identity'
-permalink: /projects/identity/
+permalink: /litlab-website/projects/identity/
 title: "Identity"
-image: /litlab-website/assets/images/identity.jpg
+image: /litlab-website/assets/images/projects/identity.jpg
 members: [malgeehewitt, jporter, hwalser]
 collaborators:
 status: 'archive'

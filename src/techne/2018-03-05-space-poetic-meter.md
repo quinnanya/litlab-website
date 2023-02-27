@@ -32,7 +32,7 @@ The first step, technical in the metrical sense, is to determine how these feet 
 
 **Figure 1**
 
-<a href="/litlab-website/assets/images/FourFeet.jpg"><img src="/litlab-website/assets/images/FourFeet.jpg" width="800px" /></a>
+<a href="/litlab-website/assets/images/techne/FourFeet.jpg"><img src="/litlab-website/assets/images/techne/FourFeet.jpg" width="800px" /></a>
 
 (I couldn’t think of an anapestic animal.)
 
@@ -45,7 +45,7 @@ To test how well these operations worked, we assembled 205 poems that fit comfor
  
 **Figure 2**
 
-<a href="/litlab-website/assets/images/meterscope-canon-byron.png"><img src="/litlab-website/assets/images/meterscope-canon-byron.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/techne/meterscope-canon-byron.png"><img src="/litlab-website/assets/images/techne/meterscope-canon-byron.png" width="800px" /></a>
 
 The lines that cut the graph into quadrants are based on empirical observation; they divide the space in the way that maximizes the machine's accuracy relative to the initial tags. That accuracy is remarkably high: In this sample, we correctly classified 202 of the 205 poems, or 98.5%.[[6]](/hooddistance/#_ftn6) Even the borderline cases are often successes here: Richard Crashaw's "Upon the Infant Martyrs", for example, lies exactly between the iambic and trochaic quadrants; its first two lines are perfectly iambic, and its second two lines are perfectly trochaic:
 
@@ -65,7 +65,7 @@ When we turned our attention to a larger archive of poems, we serendipitously di
 
 **Figure 3**
 
-<a href="/litlab-website/assets/images/Four-Quadrants-of-Meter-Shewing-All-Poems.png"><img src="/litlab-website/assets/images/Four-Quadrants-of-Meter-Shewing-All-Poems.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/techne/Four-Quadrants-of-Meter-Shewing-All-Poems.png"><img src="/litlab-website/assets/images/techne/Four-Quadrants-of-Meter-Shewing-All-Poems.png" width="800px" /></a>
 
 Every dot is a poem; there are 6,400 in total on this graph. From these, we selected 238 at random and scanned them by hand; our conclusions are reflected in the colors you see here. Compared to our human tags, the program correctly identified 94% of poems.
 
@@ -87,7 +87,7 @@ On the other hand, we believe that Hood Distance amounts to more than added nuan
 
 **Figure 4**
 
-<a href="/litlab-website/assets/images/Regularity-2-Metrical-Typicality.png"><img src="/litlab-website/assets/images/Regularity-2-Metrical-Typicality.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/techne/Regularity-2-Metrical-Typicality.png"><img src="/litlab-website/assets/images/techne/Regularity-2-Metrical-Typicality.png" width="800px" /></a>
 
 Each dot here is a poem; the gray bars contain 50% of the poems in a given era, and the spot where they change color is the median Hood Distance for that era. The colors of the poems reflect the traditional, categorical designations of meter, but the changes in the distribution, the rise and fall of the median, show a new kind of poetic history: The rise and fall of metrical regularity. Starting in the Tudor period, Hood Distance increases through the eighteenth century; the Romantic Era then initiates a decline in regularity that persists as long as the data does, as clearly iambic and trochaic poems give way to more freewheeling meters. Like so many DH findings, this tracks roughly with what we "already knew"---but *did* we know it? Are you sure you wouldn't have picked the Augustan Age for peak regularity? What would you have said about the Victorian Era as against the Restoration? If knowledge is (more or less) true justified belief, we now have more empirical justification and a more precise sense of the truth, where neither were quite as possible before.
 

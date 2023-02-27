@@ -1,8 +1,8 @@
 ---
 key: 'afterlife-receptionf'
-permalink: /projects/afterlife-reception/
+permalink: /litlab-website/projects/afterlife-reception/
 title: "The Afterlife of Reception"
-image: /litlab-website/assets/images/afterlife-reception.jpg
+image: /litlab-website/assets/images/projects/afterlife-reception.jpg
 members: [efinn]
 status: 'archive'
 shortdesc: "Examining the 'social life' of books through thousands of book reviews"
