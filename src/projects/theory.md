@@ -1,6 +1,6 @@
 ---
 key: 'theory'
-permalink: '/litlab-website/projects/theory/'
+permalink: '/projects/theory/'
 title: "Theory"
 image: '/litlab-website/assets/images/projects/theory.jpg'
 members: ['malgeehewitt']
