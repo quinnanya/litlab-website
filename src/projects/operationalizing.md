@@ -2,7 +2,7 @@
 key: 'operationalizing'
 permalink: /projects/operationalizing/
 title: "'Operationalizing': or, the function of measurement in modern literary theory"
-image: /assets/images/operationalizing.jpg
+image: /litlab-website/assets/images/operationalizing.jpg
 members: [fmoretti]
 status: 'archive'
 shortdesc: "Two case studies on going from literary concept to quantitative evidence"

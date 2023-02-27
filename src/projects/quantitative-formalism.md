@@ -2,7 +2,7 @@
 key: 'quantitative-formalism'
 permalink: /projects/quantitative-formalism/
 title: "Quantitative Formalism"
-image: /assets/images/quantitative-formalism.jpg
+image: /litlab-website/assets/images/quantitative-formalism.jpg
 members: [sallison, rheuser, mjockers, fmoretti]
 collaborators: [mwitmore]
 status: 'archive'

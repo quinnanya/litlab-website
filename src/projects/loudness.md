@@ -2,7 +2,7 @@
 key: 'loudness'
 permalink: /projects/loudness/
 title: "Loudness in the Novel"
-image: /assets/images/loudness.jpg
+image: /litlab-website/assets/images/loudness.jpg
 members: [hkatsma]
 status: 'archive'
 shortdesc: "Measuring the loudness of dialogue, through lenses of semantics, plot, and historic change"

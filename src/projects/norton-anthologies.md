@@ -2,7 +2,7 @@
 key: 'norton-anthologies'
 permalink: /projects/norton-anthologies/
 title: "Reading Norton Anthologies"
-image: /assets/images/norton-anthologies.jpg
+image: /litlab-website/assets/images/norton-anthologies.jpg
 members: [efredner, dmcclure, jporter]
 collaborators:
 status: 'archive'

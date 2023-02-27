@@ -8,7 +8,7 @@ teaser: |
   Over the course of the last few months here at the Literary Lab, I’ve been working on a little project that looks at the distributions of individual words inside of novels, when averaged out across lots and lots of texts.
 ---
 
-<a href="/assets/images/how_often.png"><img src="/assets/images/how_often.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/how_often.png"><img src="/litlab-website/assets/images/how_often.png" width="800px" /></a>
 
 Over the course of the last few months here at the Literary Lab, I've been working on a little project that looks at the distributions of individual words inside of novels, when averaged out across lots and lots of texts. This is incredibly simple, really -- the end result is basically just a time-series plot for a word, similar to a historical frequency trend. But, the units are different -- instead of historical time, the X-axis is what Matt Jockers calls "narrative time," the space between the beginning and end of a book.
 
@@ -24,35 +24,35 @@ It's sort of the lowest-level version of the question, maybe right on the line w
 
 One nice thing about this question is that the feature extraction step is really easy -- we just need to count words in a particular way. At the lowest level -- for a given word in a single text, we can compute its "dispersion" across narrative time, the set of positions where the word appears. For example, "death" in Moby Dick:
 
-<a href="/assets/images/death-moby-dick.png"><img src="/assets/images/death-moby-dick.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/death-moby-dick.png"><img src="/litlab-website/assets/images/death-moby-dick.png" width="800px" /></a>
 
 So, just eyeballing it, maybe “death” leans slightly towards the end, especially with that little cluster around word 220k? Once we can do this with a single text, though, it’s easy to merge together data from lots of texts. We can just compute this over and over again for each novel, map the X-axis onto a normalized 0-1 scale, and then stack everything up into a big vertical column. For example, in 100 random novels:
 
-<a href="/assets/images/death-100.png"><img src="/assets/images/death-100.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/death-100.png"><img src="/litlab-website/assets/images/death-100.png" width="800px" /></a>
 
 Or, in 1,000:
 
-<a href="/assets/images/death-1000.png"><img src="/assets/images/death-1000.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/death-1000.png"><img src="/litlab-website/assets/images/death-1000.png" width="800px" /></a>
 
 And then, to merge everything together, we can just sum everything up into a big histogram, basically – split the X-axis into 100 evenly-spaced bins, and count up the number of times the word appears in each column. It’s sort of like one of those visualizations of probability distributions where marbles get dropped into different slots – each word in each text is a marble, and its relative position inside the text determines which slot the marble goes into. At the end, everything stacks up into a big multinomial distribution that captures the aggregate dispersion of the word across lots of texts. Eg, from the sample of 1,000 above:
 
-<a href="/assets/images/death-1000-bars.png"><img src="/assets/images/death-1000-bars.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/death-1000-bars.png"><img src="/litlab-website/assets/images/death-1000-bars.png" width="800px" /></a>
 
 This can then be expanded to all 27,266 texts in our corpus of American novels – 18,177 from Gale’s American Fiction corpus (1820-1930), and another 9,089 from the Chicago Novel Corpus (1880-2000), which together weigh in at about 2.5 billion words. For death:
 
-<a href="/assets/images/death-27k.png"><img src="/assets/images/death-27k.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/death-27k.png"><img src="/litlab-website/assets/images/death-27k.png" width="800px" /></a>
 
 So it’s true! Not a surprise, but useful as a sanity check. Now, with “death,” it happened that we could already see a sort of blurry, pixelated version of this just with a handful of texts. The nice thing about this, though, is that it also becomes possible to surface well-sampled distributions even for words that are much more infrequent, to the degree that they don’t appear in any individual text with enough frequency to infer any kind of general tendency. (By Zipf’s law, this is a large majority of words, in fact – most words will just appear a handful of times in a given novel, if at all.) For example, take a word like “athletic,” which appears exactly once in Moby Dick, about half-way through:
 
-<a href="/assets/images/athletic-moby-dick.png"><img src="/assets/images/athletic-moby-dick.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/athletic-moby-dick.png"><img src="/litlab-website/assets/images/athletic-moby-dick.png" width="800px" /></a>
 
 And, even in the same sample of 1,000 random novels, the data is still very sparse:
 
-<a href="/assets/images/athletic-1000.png"><img src="/assets/images/athletic-1000.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/athletic-1000.png"><img src="/litlab-website/assets/images/athletic-1000.png" width="800px" /></a>
 
 If you squint at this, maybe you can see something, but it’s hard to say. With the full corpus, though, the clear trend emerges:
 
-<a href="/assets/images/athletic-27k.png"><img src="/assets/images/athletic-27k.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/athletic-27k.png"><img src="/litlab-website/assets/images/athletic-27k.png" width="800px" /></a>
 
 "Athletic" -- along with a great many words used to describe people, as we'll see shortly -- concentrates really strongly at the beginning of the novel, where characters are getting introduced for the first time. If someone is athletic, it tends to get mentioned the first time they appear, not the second or third or last.
 
@@ -60,7 +60,7 @@ If you squint at this, maybe you can see something, but it’s hard to say. With
 
 Are these trends significant, though? For "death" and "athletic" they certainly look meaningful, just eyeballing the histograms. But what about for a word like "irony":
 
-<a href="/assets/images/irony.png"><img src="/assets/images/irony.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/irony.png"><img src="/litlab-website/assets/images/irony.png" width="800px" /></a>
 
 Which looks much more like a flat line, with some random noise in the bin counts? If we take the null hypothesis to be the uniform distribution – a flat line, no relationship between the position in narrative time and the observed frequency of the word – then the simple way to test for significance is just a basic chi-squared test between the observed distribution and the expected uniform distribution, where the frequency of the word is spread out evenly across the bins. For example, “death” appears 593,893 times in the corpus, so, under the uniform assumption, we’d expect each of the 100 bins to have 1/100th of the total count, ~5,938 each. For “death,” then, the chi-squared statistic between this theoretical baseline and the observed counts is ~16,925, and the pvalue is so small that it literally rounds down to 0 in Python. For “athletic,” chi-squared is ~1,467, with p also comically small at 3.15e-242. Whereas, for “irony” – chi-squared is 98, with p at 0.49, meaning we can’t say with confidence that there’s any kind of meaningful trend.
 
@@ -70,28 +70,28 @@ This seemed like a simple question at first, but over the course of the last cou
 
 To get a sense of how this plays out across the whole dictionary – one very simple way to quantify the “non-uniformity” of the distributions is just to take the raw variance of the bin counts, which can then be plotted against frequency:
 
-<a href="/assets/images/variance-linear.png"><img src="/assets/images/variance-linear.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/variance-linear.png"><img src="/litlab-website/assets/images/variance-linear.png" width="800px" /></a>
 
 This is unreadable with the linear scales because the graph gets dominated by a handful of function words; but, on a log-log scale, a fairly clean power law falls out:
 
-<a href="/assets/images/variance-log-log.png"><img src="/assets/images/variance-log-log.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/variance-log-log.png"><img src="/litlab-website/assets/images/variance-log-log.png" width="800px" /></a>
 
 
 But, with that really wide vertical “banding,” which is basically the axis of surprise that we care about – at any given word frequency on the X-axis, words at the bottom of the band will have comparatively “flat” distributions across narrative time, and words at the top will have the most non-uniform / narratologically interesting distributions.
 
 The nice thing about just using the raw variance to quantify this is that it’s easy to compare it against what you’d expect, in theory, at any given level of word frequency. For a multinomial distribution, the variance you’d expect to see for the count in any one of the bins is n * p (1-p), where n is the number of observations (the word count, in this context) and p is 1/100, the probability that a word will fall into any given bin under the uniform assumption. Almost all of the words fall above this line:
 
-<a href="/assets/images/variance-exp.png"><img src="/assets/images/variance-exp.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/variance-exp.png"><img src="/litlab-website/assets/images/variance-exp.png" width="800px" /></a>
 
 Which, to loop back, corresponds to the fact that almost all words, under the chi-squared test, appear not to come from the uniform distribution – almost all have higher variances than you’d expect if they were uniformly distributed.
 
 I’m unsure about this, but – to get a crude rank ordering for the words in a way that (at least partially) controls for frequency, I think it’s reasonable just to divide the observed variances by the expected value at each word’s frequency, which gives a ratio that captures how many times greater a word’s actual variance is than what you’d expect if it didn’t fluctuate at all across narrative time. (Mathematically, this is basically equivalent to the original chi-squared statistic.)
 
-<a href="/assets/images/variance-bands.png"><img src="/assets/images/variance-bands.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/variance-bands.png"><img src="/litlab-website/assets/images/variance-bands.png" width="800px" /></a>
 
 So, then, if we skim off the top 500 words:
 
-<a href="/assets/images/variance-500.png"><img src="/assets/images/variance-500.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/variance-500.png"><img src="/litlab-website/assets/images/variance-500.png" width="800px" /></a>
 
 Does this make sense, statistically? I don’t love the fact that it still correlates with frequency – almost all of the highest-frequency words make the cut. But that might also just be surfacing something true about the high frequency words, which do clearly rise up higher above the line. (Counterintuitively?) There are other ways of doing this – namely, if you flatten everything out into density functions – that reward low-frequency words that have the most “volatile” or “spiky” distributions. But, these are problematic in other ways – this is a rabbit hole, which I’ll try circle back to in a bit.
 
@@ -99,6 +99,6 @@ Anyway, under this (imperfect) heuristic, here are the 500 most narratologically
 
 The really wacky stuff, though, is in the stopwords – which deserve their own post.
 
-<a href="/assets/images/500-1.png"><img src="/assets/images/500-1.png" width="800px" /></a>
+<a href="/litlab-website/assets/images/500-1.png"><img src="/litlab-website/assets/images/500-1.png" width="800px" /></a>
 
 *The feature extraction code for this project can be found [here](https://github.com/davidmcclure/literary-interior/tree/shuffle), and the analysis code is [here](https://github.com/davidmcclure/lint-analysis). Thanks Mark Algee-Hewitt, Franco Moretti, Matt Jockers, Scott Enderle, Dan Jurafsky, Christof Schöch, and Ryan Heuser for helping me think through this project at various stages. Any mistakes are mine!*

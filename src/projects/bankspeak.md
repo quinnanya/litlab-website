@@ -2,7 +2,7 @@
 key: 'bankspeak'
 permalink: /projects/bankspeak/
 title: "Bankspeak: The Language of World Bank Reports, 1946-2012"
-image: /assets/images/bankspeak.jpg
+image: /litlab-website/assets/images/bankspeak.jpg
 members: [fmoretti, dpestre]
 status: 'archive'
 shortdesc: "Tracking the evolution of the discourse of the World Bank Report from 1958-2008"

@@ -38,15 +38,15 @@ Like a topic model that requires a pre-established number of topics, the neuraln
 
 In our first results, the best performing network was a simple single-layer neural network with just five hidden nodes. Plotting it, we can easily see its structure (click any image to view the full-resolution version):
 
-<a href="/assets/images/PlotofNet.jpg"><img src="/assets/images/PlotofNet.jpg" width="800px" /></a>
+<a href="/litlab-website/assets/images/PlotofNet.jpg"><img src="/litlab-website/assets/images/PlotofNet.jpg" width="800px" /></a>
 
-<a href="/assets/images/virtual_readers_Confusion-Plot_2.jpg"><img src="/assets/images/virtual_readers_Confusion-Plot_2.jpg" width="800px" /></a>
+<a href="/litlab-website/assets/images/virtual_readers_Confusion-Plot_2.jpg"><img src="/litlab-website/assets/images/virtual_readers_Confusion-Plot_2.jpg" width="800px" /></a>
 
 Not only did this success rate outperform logistic regression (65% correct) and SVM (62% correct), but its accuracy overall astonished us. We had expected to observe and draw conclusions from its failures, but here, the successes are far more informative. Based solely on a set of semantic fields, culled from topics models and distinctive words, our virtual reader was able to correctly predict a human rater’s response to a passage four out of five times.
 
 Although one the limitations on using a neural network is our inability to reconstruct the logic behind the weights it assigns to individual nodes (and thus the exact mechanism of its classification decisions), it is still possible to peek into the black box and see the relative magnitude of importance of each variable (if not its precise relationship to the other features or the direction of its weight). And, by bringing our critical understanding of the data to the weights, we can begin to productively unpack the classifier. For the model above, we were able to use a garson plot from the package *NeuralNetTools* to see the relative importance of each feature in deciding whether a passage was suspenseful or unsuspenseful:
 
-<a href="/assets/images/WeightsofNN_suspense.jpg"><img src="/assets/images/WeightsofNN_suspense.jpg" width="800px" /></a>
+<a href="/litlab-website/assets/images/WeightsofNN_suspense.jpg"><img src="/litlab-website/assets/images/WeightsofNN_suspense.jpg" width="800px" /></a>
 
 From the neural network then, we were able to not only ascertain that there is a predictive relationship between at least some of the formal features that we identified, and whether the passage was suspenseful or unsuspenseful, but also what features were most strongly associated with suspenseful topics (either in their presence, as we suspect for the topics that we termed “Physical Pain” and “American Military”, or in their absence, as we suspect for “Drawing Room Conversation” or “Sentimental Romanticism”).
 

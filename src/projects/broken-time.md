@@ -2,7 +2,7 @@
 key: 'broken-time'
 permalink: /projects/broken-time/
 title: "Broken Time, Continued Evolution: Anachronies in Contemporary Films"
-image: /assets/images/broken-time.jpg
+image: /litlab-website/assets/images/broken-time.jpg
 members: [osobchuk]
 collaborators: [mkanatova, amilyakina, tpilipovec, ashelya, ptinits]
 status: 'archive'

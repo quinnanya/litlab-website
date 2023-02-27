@@ -2,7 +2,7 @@
 key: 'fanfic-genesis'
 permalink: /projects/fanfic-genesis/
 title: "Fanfiction: Generic Genesis and Evolution"
-image: /assets/images/fanfic-genesis.jpg
+image: /litlab-website/assets/images/fanfic-genesis.jpg
 members: [malgeehewitt, sdouris]
 collaborators: [dmcclure]
 status: 'archive'

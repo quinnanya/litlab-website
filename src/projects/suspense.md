@@ -2,7 +2,7 @@
 key: 'suspense'
 permalink: /projects/suspense/
 title: "Suspense"
-image: /assets/images/suspense.jpg
+image: /litlab-website/assets/images/suspense.jpg
 members: [malgeehewitt, adroge, efredner, jporter, teccles, mfrank ashephard, osobchuk, hwalser]
 collaborators: [cdavis, leidem]
 status: 'archive'

@@ -9,7 +9,7 @@ url: 'https://litlab.stanford.edu/LiteraryLabPamphlet17.pdf'
 year: 2018
 project: 'popularity-prestige'
 pamphlet:
-  image: "/assets/images/p17.png"
+  image: "/litlab-website/assets/images/p17.png"
   pdf: "https://litlab.stanford.edu/LiteraryLabPamphlet17.pdf"
   pubdate: 2018-09-01
   blurb: "If canonicity means escaping obscurity, we need a model of the canon that can accommodate multiple methods of being remembered."

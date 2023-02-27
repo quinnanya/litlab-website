@@ -2,7 +2,7 @@
 key: 'star-texts'
 permalink: /projects/star-texts/
 title: "Star Texts"
-image: /assets/images/star-texts.jpg
+image: /litlab-website/assets/images/star-texts.jpg
 members: [clindemann, malgeehewitt, hwalser]
 collaborators: 
 status: 'archive'

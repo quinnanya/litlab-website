@@ -2,7 +2,7 @@
 key: 'performance-character'
 permalink: /projects/performance-character/
 title: "The Performance of Character"
-image: /assets/images/performance-character.jpg
+image: /litlab-website/assets/images/performance-character.jpg
 members: [malgeehewitt, gmuzny, djurafsky]
 status: 'archive'
 date_updated: 2017-09-01

@@ -2,7 +2,7 @@
 key: 'identity'
 permalink: /projects/identity/
 title: "Identity"
-image: /assets/images/identity.jpg
+image: /litlab-website/assets/images/identity.jpg
 members: [malgeehewitt, jporter, hwalser]
 collaborators:
 status: 'archive'

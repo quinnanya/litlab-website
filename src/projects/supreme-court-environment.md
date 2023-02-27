@@ -2,7 +2,7 @@
 key: 'supreme-court-environment'
 permalink: /projects/supreme-court-environment/
 title: "What the Supreme Court talks about when it talks about environmental law"
-image: /assets/images/supreme-court-environment.jpg
+image: /litlab-website/assets/images/supreme-court-environment.jpg
 members: [malgeehewitt, rheuser, fmoretti]
 collaborators: [mburger]
 status: 'archive'

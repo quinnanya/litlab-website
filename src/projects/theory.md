@@ -2,7 +2,7 @@
 key: 'theory'
 permalink: /projects/theory/
 title: "Theory"
-image: /assets/images/theory.jpg
+image: /litlab-website/assets/images/theory.jpg
 members: [malgeehe, nnomura]
 status: 'active'
 date_updated: 2023-02-01

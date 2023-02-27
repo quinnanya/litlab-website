@@ -2,7 +2,7 @@
 key: 'taxonomy-titles-18c'
 permalink: /projects/taxonomy-titles-18c/
 title: "The Taxonomy of Titles in the 18th Century Literary Marketplace"
-image: /assets/images/taxonomy-titles-18c.jpg
+image: /litlab-website/assets/images/taxonomy-titles-18c.jpg
 members: [malgeehewitt, leidem, rheuser, alaw, tllewellyn]
 collaborators:
 status: 'archive'

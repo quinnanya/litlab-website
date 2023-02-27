@@ -2,7 +2,7 @@
 key: 'therapytexts'
 permalink: /projects/therapytexts/
 title: "TherapyTexts"
-image: /assets/images/therapytexts.jpg
+image: /litlab-website/assets/images/therapytexts.jpg
 members: [amukamal, malgeehewitt]
 collaborators: [lmendelman, kterry]
 status: 'active'
