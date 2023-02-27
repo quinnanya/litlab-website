@@ -32,7 +32,7 @@ The first step, technical in the metrical sense, is to determine how these feet 
 
 **Figure 1**
 
-<a href="/litlab-website/assets/images/techne/FourFeet.jpg"><img src="/litlab-website/assets/images/techne/FourFeet.jpg" width="800px" /></a>
+<a href="/litlab-website/assets/images/techne/FourFeet.jpeg"><img src="/litlab-website/assets/images/techne/FourFeet.jpeg" width="800px" /></a>
 
 (I couldn’t think of an anapestic animal.)
 
