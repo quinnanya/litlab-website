@@ -6,6 +6,7 @@ image: /litlab-website/assets/images/projects/celebrity.jpg
 members: [malgeehewitt, efredner, clindemann, lmcgrath, jporter]
 collaborators:
 status: 'archive'
+type: 'collaboration'
 date_updated: 2021-07-29
 start_date: 2019-05-01
 end_date: 2021-07-29

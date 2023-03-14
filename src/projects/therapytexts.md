@@ -6,6 +6,7 @@ image: /litlab-website/assets/images/projects/therapytexts.jpg
 members: [amukamal, malgeehewitt]
 collaborators: [lmendelman, kterry]
 status: 'active'
+type: 'collaboration'
 date_updated: 2023-01-01
 start_date: 2020-04-01
 end_date:

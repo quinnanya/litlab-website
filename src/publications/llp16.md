@@ -7,7 +7,8 @@ journal: 'Stanford Literary Lab Pamphlets'
 volume: '16'
 url: 'https://litlab.stanford.edu/LiteraryLabPamphlet16.pdf'
 year: 2017
-project:
+project: 'operationalizing'
+group: 'pamphlet'
 pamphlet:
   image: "/litlab-website/assets/images/pamphlets/p16.png"
   pdf: "https://litlab.stanford.edu/LiteraryLabPamphlet16.pdf"

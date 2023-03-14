@@ -8,6 +8,7 @@ volume: '12'
 url: 'https://litlab.stanford.edu/LiteraryLabPamphlet12.pdf'
 year: 2016
 project:
+group: 'pamphlet'
 pamphlet:
   image: "/litlab-website/assets/images/pamphlets/p12.png"
   pdf: "https://litlab.stanford.edu/LiteraryLabPamphlet12.pdf"

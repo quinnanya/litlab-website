@@ -8,5 +8,6 @@ volume: '5'
 number: '2'
 url: 'https://culturalanalytics.org/article/18509'
 year: 2020
+group: 'article'
 project: 'representing-race'
 ---

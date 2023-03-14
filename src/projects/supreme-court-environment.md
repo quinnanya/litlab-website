@@ -6,6 +6,7 @@ image: /litlab-website/assets/images/projects/supreme-court-environment.jpg
 members: [malgeehewitt, rheuser, fmoretti]
 collaborators: [mburger]
 status: 'archive'
+type: 'collaboration'
 date_updated: 2017-12-31
 start_date: 2016-06-01
 end_date: 2017-09-01

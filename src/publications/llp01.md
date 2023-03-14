@@ -8,6 +8,7 @@ volume: '1'
 url: 'https://litlab.stanford.edu/LiteraryLabPamphlet1.pdf'
 year: 2011
 project: 'quantitative-formalism'
+group: 'pamphlet'
 pamphlet:
   image: "/litlab-website/assets/images/pamphlets/p01.png"
   pdf: "https://litlab.stanford.edu/LiteraryLabPamphlet1.pdf"

@@ -8,6 +8,7 @@ volume: '17'
 url: 'https://litlab.stanford.edu/LiteraryLabPamphlet17.pdf'
 year: 2018
 project: 'popularity-prestige'
+group: 'pamphlet'
 pamphlet:
   image: "/litlab-website/assets/images/pamphlets/p17.png"
   pdf: "https://litlab.stanford.edu/LiteraryLabPamphlet17.pdf"

@@ -5,6 +5,7 @@ title: "Bankspeak: The Language of World Bank Reports, 1946-2012"
 image: /litlab-website/assets/images/projects/bankspeak.jpg
 members: [fmoretti, dpestre]
 status: 'archive'
+type: 'collaboration'
 shortdesc: "Tracking the evolution of the discourse of the World Bank Report from 1958-2008"
 end_date: 2015-03-01
 ---

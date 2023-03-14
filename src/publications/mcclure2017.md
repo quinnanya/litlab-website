@@ -8,5 +8,6 @@ publisher: 'ACL'
 url: 'https://d-nb.info/1137282347/34'
 year: 2017
 pages: '25--29'
+group: 'proceedings'
 project:
 ---

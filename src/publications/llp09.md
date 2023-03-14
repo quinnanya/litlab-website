@@ -8,6 +8,7 @@ volume: '9'
 url: 'https://litlab.stanford.edu/LiteraryLabPamphlet9.pdf'
 year: 2015
 project: 'bankspeak'
+group: 'pamphlet'
 pamphlet:
   image: "/litlab-website/assets/images/pamphlets/p09.png"
   pdf: "https://litlab.stanford.edu/LiteraryLabPamphlet9.pdf"

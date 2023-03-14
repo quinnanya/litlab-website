@@ -8,6 +8,7 @@ volume: '8'
 url: 'https://litlab.stanford.edu/LiteraryLabPamphlet8.pdf'
 year: 2015
 project: 'canon-corpus'
+group: 'pamphlet'
 pamphlet:
   image: "/litlab-website/assets/images/pamphlets/p08.png"
   pdf: "https://litlab.stanford.edu/LiteraryLabPamphlet8.pdf"

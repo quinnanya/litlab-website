@@ -6,6 +6,7 @@ image: /litlab-website/assets/images/projects/imaginary-british-empire.jpg
 members: [asherman]
 collaborators:
 status: 'active'
+type: 'member'
 website:
 date_updated: 2023-02-17
 start_date: 2020-01-01

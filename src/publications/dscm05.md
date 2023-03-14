@@ -7,5 +7,6 @@ journal: 'The Data-Sitters Club'
 volume: 'M05'
 url: 'https://datasittersclub.github.io/site/dscm5.html'
 year: 2023
+group: 'dsc'
 project: 'data-sitters-club'
 ---

@@ -8,6 +8,7 @@ volume: '4'
 url: 'https://litlab.stanford.edu/LiteraryLabPamphlet4.pdf'
 year: 2012
 project: '19c-british-novels'
+group: 'pamphlet'
 pamphlet:
   image: "/litlab-website/assets/images/pamphlets/p04.png"
   pdf: "https://litlab.stanford.edu/LiteraryLabPamphlet4.pdf"
