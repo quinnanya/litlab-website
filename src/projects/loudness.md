@@ -5,6 +5,7 @@ title: "Loudness in the Novel"
 image: /litlab-website/assets/images/projects/loudness.jpg
 members: [hkatsma]
 status: 'archive'
+type: 'member'
 shortdesc: "Measuring the loudness of dialogue, through lenses of semantics, plot, and historic change"
 end_date: 2014-09-01
 ---

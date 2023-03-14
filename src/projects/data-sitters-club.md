@@ -6,6 +6,7 @@ image: /litlab-website/assets/images/projects/dsc_project.jpg
 members: [malgeehewitt, qdombrowski]
 collaborators: [lbessette, kbowers, mcecire, alang, rrisam]
 status: 'active'
+type: 'collaboration'
 website: 'https://datasittersclub.github.io/site/books'
 date_updated: 2022-01-07
 start_date: 2019-11-07

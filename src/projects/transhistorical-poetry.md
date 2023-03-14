@@ -6,6 +6,7 @@ image: /litlab-website/assets/images/projects/transhistorical-poetry.jpg
 members: [malgeehewitt, rheuser, jporter]
 collaborators: [jsensenbaugh, jtackett]
 status: 'archive'
+type: 'lab'
 date_updated: 2023-01-01
 start_date: 2016-01-01
 end_date: 2018-09-01

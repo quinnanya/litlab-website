@@ -5,6 +5,7 @@ title: "'Operationalizing': or, the function of measurement in modern literary t
 image: /litlab-website/assets/images/projects/operationalizing.jpg
 members: [fmoretti]
 status: 'archive'
+type: 'lab'
 shortdesc: "Two case studies on going from literary concept to quantitative evidence"
 end_date: 2013-12-01
 ---

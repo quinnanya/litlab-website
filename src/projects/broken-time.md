@@ -6,6 +6,7 @@ image: /litlab-website/assets/images/projects/broken-time.jpg
 members: [osobchuk]
 collaborators: [mkanatova, amilyakina, tpilipovec, ashelya, ptinits]
 status: 'archive'
+type: 'collaboration'
 shortdesc: "Tracking the emergence of detective films with a high number of anachronies in the 90's"
 end_date: 2017-04-01
 ---

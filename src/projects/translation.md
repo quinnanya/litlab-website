@@ -5,6 +5,7 @@ title: "Translation"
 image: /litlab-website/assets/images/projects/translation_project.jpg
 members: [qdombrowski, jporter, yilchuk]
 collaborators: [alenzo, elee, shadi]
+type: 'lab'
 status: 'archive'
 date_updated: 2023-01-01
 start_date: 2019-03-01

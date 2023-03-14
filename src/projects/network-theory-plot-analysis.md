@@ -5,6 +5,7 @@ title: "Network Theory, Plot Analysis"
 image: /litlab-website/assets/images/projects/network-theory-plot-analysis.jpg
 members: [fmoretti]
 status: 'archive'
+type: 'lab'
 shortdesc: "Using character networks for a quantitative analysis of plot"
 end_date: 2011-05-01
 ---

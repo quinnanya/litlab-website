@@ -4,8 +4,9 @@ permalink: /projects/star-texts/
 title: "Star Texts"
 image: /litlab-website/assets/images/projects/star-texts.jpg
 members: [clindemann, malgeehewitt, hwalser]
-collaborators: 
+collaborators:
 status: 'archive'
+type: 'member'
 date_updated: 2023-01-01
 start_date: 2017-09-01
 end_date: 2020-02-07

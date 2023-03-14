@@ -4,8 +4,9 @@ permalink: /projects/typicality/
 title: "Typicality"
 image: /litlab-website/assets/images/projects/typicality.jpg
 members: [malgeehewitt, efredner]
-collaborators: 
+collaborators:
 status: 'archive'
+type: 'member'
 date_updated: 2023-01-01
 start_date: 2018-09-01
 end_date: 2020-09-01

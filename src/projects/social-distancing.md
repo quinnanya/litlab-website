@@ -6,6 +6,7 @@ image: /litlab-website/assets/images/projects/social-distancing.jpg
 members: [malgeehewitt, clindemannn, nmavrody, nnomura, jporter, mwarner]
 collaborators: [ydu]
 status: 'archive'
+type: 'lab'
 date_updated: 2023-01-01
 start_date: 2020-04-01
 end_date: 2021-06-15

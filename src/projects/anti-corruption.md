@@ -6,6 +6,7 @@ image: /litlab-website/assets/images/projects/anti-corruption.jpg
 members: [jporter, ebrush, nnomura, asherman, malgeehewitt]
 collaborators: [lgalindoromero, mrozopaz]
 status: 'archive'
+type: 'collaboration'
 date_updated: 2023-01-01
 start_date: 2019-01-01
 end_date: 2020-03-31

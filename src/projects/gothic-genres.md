@@ -5,6 +5,7 @@ title: "Castle at the Crossroads: The Gothic and Other Genres"
 image: /litlab-website/assets/images/projects/gothic_genres.jpg
 members: [radams, malgeehewitt, sguhr, chaberfield, jmonaco, asherman]
 status: 'active'
+type: 'lab'
 date_updated: 2023-01-18
 start_date: 2022-09-01
 end_date:

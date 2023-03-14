@@ -5,6 +5,7 @@ title: "Novel Worldbuilding"
 image: '/litlab-website/assets/images/projects/novel-worldbuilding.jpg'
 members: [nnomura, malgeehewitt]
 status: 'active'
+type: 'member'
 date_updated: 2023-01-01
 start_date: 2019-01-15
 end_date:

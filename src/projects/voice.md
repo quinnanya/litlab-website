@@ -4,8 +4,9 @@ permalink: /projects/voice/
 title: "Voice"
 image: /litlab-website/assets/images/projects/voice.jpg
 members: [nmavrody, lmcgrath, nnomura, asherman]
-collaborators: 
+collaborators:
 status: 'archive'
+type: 'lab'
 date_updated: 2023-01-01
 start_date: 2018-09-01
 end_date: 2021-04-21

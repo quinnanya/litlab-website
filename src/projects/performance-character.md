@@ -5,6 +5,7 @@ title: "The Performance of Character"
 image: /litlab-website/assets/images/projects/performance-character.jpg
 members: [malgeehewitt, gmuzny, djurafsky]
 status: 'archive'
+type: 'lab'
 date_updated: 2017-09-01
 start_date: 2017-03-01
 end_date: 2017-09-01

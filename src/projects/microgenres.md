@@ -6,6 +6,7 @@ image: /litlab-website/assets/images/projects/microgenres.jpg
 members: [malgeehe, mbronstein, adroge, efredner, rheuser, amanshel, nnomura, jporter, hwalser]
 collaborators:
 status: 'archive'
+type: 'lab'
 date_updated: 2023-01-01
 start_date: 2017-09-01
 end_date: 2023-01-01
