@@ -66,15 +66,13 @@ layout: base
 	  {% endif %}
 	  {% endfor %}
 	  {% endfor %}
-	  
+	 
 	  
 	  <h4>Publications</h4>
 	  {%-for pub in collections.publications | reverse -%}
-	  {%-for pubproject in pub.data.projects-%}
-	  {%- if pubproject == key -%}
-	  <p class="card-text"><a href="{{post.data.permalink | safe}}">{{pub.data.title}}</a><br />{{pub.data.year}}</p>
+	  {%- if pub.data.project == key -%}
+	  <p class="card-text"><a href="{{pub.data.permalink | safe}}">{{pub.data.title}}</a><br />{{pub.data.year}}</p>
 	  {% endif %}
-	  {% endfor %}
 	  {% endfor %}
 	  
 	  

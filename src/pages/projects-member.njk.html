@@ -1,10 +1,10 @@
 ---js
 {
   layout: "base",
-  title: "Lab Projects",
-  permalink: "/projects/",
+  title: "Member Projects",
+  permalink: "/projects/member",
   eleventyNavigation: {
-    key: "Lab Projects",
+    key: "Member Projects",
     order: "5"
   },
   pagination: {
@@ -19,7 +19,7 @@
 }
 ---
 
-<h2>Lab Projects</h2>
+<h2>Lab Member Projects</h2>
 
 <p>See past projects in the <a href="/litlab-website/projects/archive/">project archive<a>.</p>
 
@@ -30,7 +30,7 @@
            <div class="wrapper wrapper--big">
                <div class="card__container">
                        {%-for post in pagination.items-%}
-					   {% if 'lab' == post.data.type %}
+					   {% if 'member' == post.data.type %}
 					   {% if 'archive' !== post.data.status %}
 					   
 				       <div class="card__item cf">
