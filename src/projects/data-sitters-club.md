@@ -19,4 +19,4 @@ What happens when you combine a team of scholars with diverse disciplinary backg
 
 The Data-Sitters Club is a feminist pedagogical project, taking computational text analysis methods and issues that commonly come up when doing this kind of work, and talking through them in a colloquial, accessible manner.
 
-The DSC includes: Lee Skallerup Bessette (Georgetown University), Katherine Bowers (Univ. of British Columbia), Maria Cecire (Mellon Foundation), Quinn Dombrowski (Stanford University), Anouk Lang (University of Edinburgh) and Roopika Risam (Salem State University)
+The DSC includes: Lee Skallerup Bessette (Georgetown University), Katherine Bowers (Univ. of British Columbia), Maria Cecire (Mellon Foundation), Quinn Dombrowski (Stanford University), Anouk Lang (University of Edinburgh) and Roopika Risam (Dartmouth College)
