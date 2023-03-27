@@ -3,9 +3,9 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 // Base setup for builds, needed for og tags and correct image paths
 // (mostly for github pages deployment, see build-deploy.yaml)
-const baseUrl = process.env.BASE_URL || 'https://matt-roots.github.io/litlab-website/';
+const baseUrl = process.env.BASE_URL || 'https://matt-roots.github.io/';
 // e.g. 'https://mandrasch.github.io/'
-const pathPrefix = process.env.PATH_PREFIX || '/';
+const pathPrefix = process.env.PATH_PREFIX || '/litlab-website';
 // e.g. '/11ty-plain-boostrap5/'
 console.log('baseUrl is set to ...', baseUrl);
 console.log('pathPrefix is set to ...', pathPrefix);
