@@ -3,9 +3,9 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 // Base setup for builds, needed for og tags and correct image paths
 // (mostly for github pages deployment, see build-deploy.yaml)
-const baseUrl = process.env.BASE_URL || 'https://matt-roots.github.io/';
+const baseUrl = process.env.BASE_URL || 'http://localhost:8080';
 // e.g. 'https://mandrasch.github.io/'
-const pathPrefix = process.env.PATH_PREFIX || '/litlab-website';
+const pathPrefix = process.env.PATH_PREFIX || '/';
 // e.g. '/11ty-plain-boostrap5/'
 console.log('baseUrl is set to ...', baseUrl);
 console.log('pathPrefix is set to ...', pathPrefix);
@@ -121,6 +121,10 @@ eleventyConfig.addFilter("numericDate", (dateObj) => {
   
   eleventyConfig.addPairedShortcode("bibtex", require('eleventy-plugin-bibtex'));
   
+
+  eleventyConfig.addFilter("filterCollectionByProject", (collection, project) =>
+    collection.filter((item) => item.data.project == project)
+  );
 
   // Base Config
   return {
